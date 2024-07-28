@@ -1,4 +1,10 @@
 ## Hi there 👋
+Hi, I'm Julie, a secretly passionate coder and software engineer. 
+
+- 🌱 I’m currently learning at BloomTech
+
+- 📫 How to reach me: linkedin.com/in/julie-fiess
+
 
 <!--
 **f-julie/f-julie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
