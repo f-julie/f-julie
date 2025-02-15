@@ -1,7 +1,7 @@
 ## Hi there 👋
 Hi, I'm Julie, a secretly passionate coder and software engineer. 
 
-- 🌱 I’m currently learning at BloomTech
+- 🌱 I graduated from BloomTech!
 
 - 📫 How to reach me: linkedin.com/in/julie-fiess
 
